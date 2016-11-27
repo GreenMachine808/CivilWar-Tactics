@@ -7,10 +7,13 @@ body {
 	background-width: 1000px;
 	
 
-}background-color: 
+}
 
-#calavlry {
-	background-image: 
+#calavlry2 {
+	background-image: url("../assets/cavalry.png");
+	background-repeat: no-repeat;
+	background-width: 88px;
+	background-height: 88px;
 
 
 }
@@ -27,7 +30,7 @@ body {
 
 }
 #cavlavlry2 {
-	margin-left: 100px;	
+	
 
 
 
