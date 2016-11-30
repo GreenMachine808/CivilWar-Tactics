@@ -5,6 +5,7 @@ body {
 #title {
 	background-height: 700px;
 	background-width: 1000px;
+	font-size: 35px
 	
 
 }
@@ -15,12 +16,10 @@ body {
 
 
 }
-#basic {
-	font-size: 22px
-}
+
 
 .tactics {
-	font-size: 35px
+	font-size: 28px
 
 }
 #Artillery {
@@ -29,7 +28,13 @@ body {
 }
 #intro {
 	font-size: 28px
-	
+
+
+
+}
+.gettysburg {
+	font-size: 28px
+
 
 
 
